@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color:honey yellow 
+Favorite food:fried chicken
+Favorite musician/band: Sia
+Favorite movie: real steel
+Requested grade in the course: 98 
